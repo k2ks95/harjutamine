@@ -1,1 +1,2 @@
 Github on Microsofti tütarfirma, mis pakub veebimajutusteenust tarkvaraarendusteks. Githubi kasutavad oma koodivaramuna paljud tuntud firmad eestis näiteks pipedrive. Välismaalt näiteks palju tuntud Google ja Microsoft.
+Kui ma saan täpsemalt selle üles ehitusest aru siis ma saan kindlasti seda tulevikus kasutada koodide ülesehitamisel. 
